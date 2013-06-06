@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
 		
 		// autohn
 		// hogehoge
+		
+		//Boys, be ambitious !
 	}
 	
 	@Override
