@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 		
 		// autohn
 		// hogehoge
-		
+		// こうやってコードを共有する
 		//Boys, be ambitious !
 	}
 	
